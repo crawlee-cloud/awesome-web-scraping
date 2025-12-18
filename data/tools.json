@@ -1,0 +1,154 @@
+{
+  "aiScraping": [
+    {
+      "name": "Crawl4AI",
+      "url": "https://crawl4ai.com",
+      "language": "Python",
+      "description": "Open-source LLM-friendly web crawler and scraper",
+      "github": "unclecode/crawl4ai"
+    },
+    {
+      "name": "Firecrawl",
+      "url": "https://firecrawl.dev",
+      "language": "Multi",
+      "description": "Turn websites into LLM-ready markdown",
+      "github": "firecrawl/firecrawl"
+    },
+    {
+      "name": "ScrapeGraphAI",
+      "url": "https://scrapegraphai.com",
+      "language": "Python",
+      "description": "Python library for graph-based AI scraping",
+      "github": "ScrapeGraphAI/Scrapegraph-ai"
+    },
+    {
+      "name": "Stagehand",
+      "url": "https://stagehand.dev",
+      "language": "TypeScript",
+      "description": "AI-powered programmable browser",
+      "github": "browserbase/stagehand"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Crawlee",
+      "url": "https://crawlee.dev",
+      "language": "TypeScript",
+      "description": "Reliable crawling library with autoscaling, session management, and stealth features",
+      "github": "apify/crawlee",
+      "stars": 14000
+    },
+    {
+      "name": "Scrapy",
+      "url": "https://scrapy.org",
+      "language": "Python",
+      "description": "Battle-tested framework for large-scale scraping",
+      "github": "scrapy/scrapy",
+      "stars": 52000
+    },
+    {
+      "name": "Colly",
+      "url": "https://go-colly.org",
+      "language": "Go",
+      "description": "Fast and elegant scraping framework",
+      "github": "gocolly/colly",
+      "stars": 23000
+    }
+  ],
+  "browserAutomation": [
+    {
+      "name": "Browserbase",
+      "url": "https://browserbase.com",
+      "description": "Serverless headless browser platform"
+    },
+    {
+      "name": "Steel",
+      "url": "https://steel.dev",
+      "description": "Browser API for AI agents",
+      "github": "steel-dev/steel-browser"
+    },
+    {
+      "name": "Playwright",
+      "url": "https://playwright.dev",
+      "language": "Multi",
+      "description": "Cross-browser automation by Microsoft",
+      "github": "microsoft/playwright",
+      "stars": 67000
+    },
+    {
+      "name": "Puppeteer",
+      "url": "https://pptr.dev",
+      "language": "JavaScript",
+      "description": "Headless Chrome/Chromium control",
+      "github": "puppeteer/puppeteer",
+      "stars": 89000
+    },
+    {
+      "name": "Selenium",
+      "url": "https://selenium.dev",
+      "language": "Multi",
+      "description": "Industry standard browser automation",
+      "github": "SeleniumHQ/selenium",
+      "stars": 31000
+    }
+  ],
+  "antiDetection": [
+    {
+      "name": "Camoufox",
+      "url": "https://github.com/daijro/camoufox",
+      "description": "Stealthy Firefox automation"
+    },
+    {
+      "name": "undetected-chromedriver",
+      "url": "https://github.com/ultrafunkamsterdam/undetected-chromedriver",
+      "description": "Selenium patch for anti-detection"
+    },
+    {
+      "name": "curl-impersonate",
+      "url": "https://github.com/lwthiker/curl-impersonate",
+      "description": "curl with browser TLS fingerprints"
+    }
+  ],
+  "dataExtraction": [
+    {
+      "name": "Cheerio",
+      "url": "https://cheerio.js.org",
+      "language": "JavaScript",
+      "description": "Fast jQuery-like HTML parsing",
+      "github": "cheeriojs/cheerio",
+      "stars": 28000
+    },
+    {
+      "name": "Beautiful Soup",
+      "url": "https://www.crummy.com/software/BeautifulSoup/",
+      "language": "Python",
+      "description": "HTML/XML parsing"
+    },
+    {
+      "name": "lxml",
+      "url": "https://lxml.de",
+      "language": "Python",
+      "description": "High-performance XML/HTML processing"
+    }
+  ],
+  "scheduling": [
+    {
+      "name": "node-cron",
+      "url": "https://github.com/node-cron/node-cron",
+      "language": "JavaScript",
+      "description": "Cron-like scheduler"
+    },
+    {
+      "name": "BullMQ",
+      "url": "https://docs.bullmq.io",
+      "language": "JavaScript",
+      "description": "Redis-based job queue"
+    },
+    {
+      "name": "Celery",
+      "url": "https://docs.celeryq.dev",
+      "language": "Python",
+      "description": "Distributed task queue"
+    }
+  ]
+}
