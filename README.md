@@ -31,6 +31,7 @@ Tools for extracting data for Large Language Models.
 | [Firecrawl](https://firecrawl.dev) | Multi | Turn websites into LLM-ready markdown |
 | [ScrapeGraphAI](https://scrapegraphai.com) | Python | Python library for graph-based AI scraping |
 | [Stagehand](https://stagehand.dev) | TypeScript | AI-powered programmable browser |
+| [Haunt API](https://hauntapi.com) | Multi | AI-powered web extraction API with Cloudflare bypass |
  
 ---
  
