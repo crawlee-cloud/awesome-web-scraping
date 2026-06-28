@@ -55,6 +55,7 @@ Headless browser control for JavaScript-heavy sites.
 |------|----------|-------------|
 | [Browserbase](https://browserbase.com) | - | Serverless headless browser platform |
 | [Cypress](https://cypress.io) | JavaScript | E2E testing with scraping capabilities |
+| [invisible_playwright](https://github.com/feder-cr/invisible_playwright) | Python | Playwright wrapper over a patched Firefox with a realistic, consistent fingerprint |
 | [Playwright](https://playwright.dev) | Multi | Cross-browser automation by Microsoft |
 | [Puppeteer](https://pptr.dev) | JavaScript | Headless Chrome/Chromium control |
 | [rod](https://github.com/go-rod/rod) | Go | High-level Chrome DevTools controller |
