@@ -27,6 +27,13 @@
       "language": "TypeScript",
       "description": "AI-powered programmable browser",
       "github": "browserbase/stagehand"
+    },
+    {
+      "name": "Xquik",
+      "url": "https://xquik.com",
+      "language": "Multi",
+      "description": "X data API with webhooks, SDKs, and hosted MCP for AI agents",
+      "github": "Xquik-dev/x-twitter-scraper"
     }
   ],
   "frameworks": [

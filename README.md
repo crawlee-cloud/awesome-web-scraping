@@ -2,7 +2,7 @@
 
 A curated list of web scraping tools, libraries, and resources.
 
-> Maintained by [Crawlee Cloud](https://crawlee.cloud) — self-hosted web scraping platform.
+> Maintained by [Crawlee Cloud](https://crawlee.cloud) - self-hosted web scraping platform.
 
 ---
 
@@ -18,6 +18,7 @@ A curated list of web scraping tools, libraries, and resources.
 - [Utils & User Agents](#utils--user-agents)
 - [Scheduling](#scheduling)
 - [Tutorials](#tutorials)
+- [Self-Hosted Platforms](#self-hosted-platforms)
 
 ---
 
@@ -31,7 +32,10 @@ Tools for extracting data for Large Language Models.
 | [Firecrawl](https://firecrawl.dev) | Multi | Turn websites into LLM-ready markdown |
 | [ScrapeGraphAI](https://scrapegraphai.com) | Python | Python library for graph-based AI scraping |
 | [Stagehand](https://stagehand.dev) | TypeScript | AI-powered programmable browser |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Multi | X data API with webhooks, SDKs, and hosted MCP for AI agents |
  
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 ---
  
 ## <a name="scraping-frameworks"></a>🕷️ Scraping Frameworks
@@ -150,13 +154,13 @@ Job scheduling for recurring scrapes.
 
 Learning resources for web scraping.
 
-- [Apify Academy](https://docs.apify.com/academy) — Free web scraping course
-- [Crawlee Docs](https://crawlee.dev/docs) — Official Crawlee documentation
-- [ScrapingBee Blog](https://www.scrapingbee.com/blog/) — Practical guides
+- [Apify Academy](https://docs.apify.com/academy) - Free web scraping course
+- [Crawlee Docs](https://crawlee.dev/docs) - Official Crawlee documentation
+- [ScrapingBee Blog](https://www.scrapingbee.com/blog/) - Practical guides
 
 ---
 
-## 🚀 Self-Hosted Platforms
+## <a name="self-hosted-platforms"></a>🚀 Self-Hosted Platforms
 
 Run scrapers on your own infrastructure.
 
