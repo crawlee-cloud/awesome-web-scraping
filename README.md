@@ -153,6 +153,7 @@ Learning resources for web scraping.
 - [Apify Academy](https://docs.apify.com/academy) — Free web scraping course
 - [Crawlee Docs](https://crawlee.dev/docs) — Official Crawlee documentation
 - [ScrapingBee Blog](https://www.scrapingbee.com/blog/) — Practical guides
+- [Data Slayer Tutorials](https://mayankchaba.github.io/data-slayer-tutorials/) — Practical, copy-paste Apify actor recipes for scraping LinkedIn, Instagram, Facebook, TikTok and X
 
 ---
 
