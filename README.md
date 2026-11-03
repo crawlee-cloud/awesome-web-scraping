@@ -29,6 +29,7 @@ Tools for extracting data for Large Language Models.
 |------|----------|-------------|
 | [Crawl4AI](https://crawl4ai.com) | Python | Open-source LLM-friendly web crawler and scraper |
 | [Firecrawl](https://firecrawl.dev) | Multi | Turn websites into LLM-ready markdown |
+| [Keenable](https://keenable.ai) | Multi | Web search and URL-to-markdown fetch API and MCP for AI agents |
 | [ScrapeGraphAI](https://scrapegraphai.com) | Python | Python library for graph-based AI scraping |
 | [Stagehand](https://stagehand.dev) | TypeScript | AI-powered programmable browser |
  
